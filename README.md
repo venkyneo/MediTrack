@@ -1,6 +1,6 @@
 MediTrack - Clinic and Appointment Management System
 
-MediTrack is a console-based Clinic and Appointment Management System built using Core Java.
+MediTrack is a console-based Clinic and Appointment Management System built using Java
 It models real-world clinic operations including patient registration, doctor management,
 appointment booking, and billing. The project demonstrates strong object-oriented design,
 SOLID principles, and standard Java features.
